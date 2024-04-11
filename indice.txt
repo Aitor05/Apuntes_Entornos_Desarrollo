@@ -1,4 +1,7 @@
 Capitulo 0: Introducción a entornos de desarrollo.
 Capitulo 1: Repositorios de Código
+	Apartado 1
+	Apartado 2
+	Apartado 3
 Capítulo 2: UML
 Capítulo 3: IDE de desarrollo
